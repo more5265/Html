@@ -212,7 +212,7 @@ footer > div > p #resort {
     width: 1000px;
     height: 620px;
     margin: 0 auto;
-    background: url("../images/main_fade_bg1.png");
+    background: url("../images/main_bg.png");
 }
 .mama > #article > .box1 > img:nth-child(1) {
     margin-top: -28px;
